@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mugilan S</h1>
 <h3 align="center">Software Engineer turned Entrepreneur. I love building things and helping people.</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.mugilans.in/](https://www.mugilans.in/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://www.mugilans.in/)
 
 - 📫 How to reach me **mugilan.s951@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Cn1jzNMgq0xlaTRAmBz8i-1OflaLRwhnhWMfH5d7cVo/edit](https://docs.google.com/document/d/1Cn1jzNMgq0xlaTRAmBz8i-1OflaLRwhnhWMfH5d7cVo/edit)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1Cn1jzNMgq0xlaTRAmBz8i-1OflaLRwhnhWMfH5d7cVo/edit)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
