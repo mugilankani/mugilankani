@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mugilan S</h1>
-<h3 align="center">Software Engineer turned Entrepreneur. I love building things and helping people.</h3>
+<h3 align="center">Software Engineer. I love building things and helping people.</h3>
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://www.mugilans.in/)
 
